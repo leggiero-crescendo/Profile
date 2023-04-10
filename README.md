@@ -4,7 +4,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=leggiero-crescendo&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"
     alt="Github Stats Card"
-    height="160"
+    height="100"
   />
 </a>
 
