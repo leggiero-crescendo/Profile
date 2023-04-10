@@ -1,4 +1,4 @@
-# Github stats
+### Github stats
 <!-- markdownlint-disable MD033 -->
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
   <img
@@ -11,7 +11,7 @@
 <br>
 <br>
 
-# Github languages
+### Github languages
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
   <img
