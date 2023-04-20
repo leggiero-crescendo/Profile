@@ -1,6 +1,6 @@
 - blog : [https://leggiero-crescendo.tistory.com/](https://leggiero-crescendo.tistory.com/)
 ## 💖 Interests
-- 2D/3D perception, Computer vision, RL
+- 2D/3D perception, Computer vision, SLAM 
 ## 🐍 Skills
 
 - Language(computer) : Python ⭐⭐, C++⭐
