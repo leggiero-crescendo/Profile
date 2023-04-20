@@ -1,10 +1,14 @@
 - blog : [https://leggiero-crescendo.tistory.com/](https://leggiero-crescendo.tistory.com/)
-
+## 💖 Interests
+- 2D/3D perception, Computer vision, RL
 ## 🐍 Skills
 
 - Language(computer) : Python ⭐⭐, C++⭐
 - Language : Korean ⭐⭐⭐⭐ , English ⭐⭐
 - Library : Pytorch, OpenCV, Open3D
+
+## 🌱 Projects
+
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
