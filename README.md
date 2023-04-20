@@ -3,7 +3,7 @@
 ## 🐍 Skills
 
 - Language(computer) : Python ⭐⭐, C++⭐
-- Language(human) : Korean ⭐⭐⭐⭐ , English ⭐⭐
+- Language : Korean ⭐⭐⭐⭐ , English ⭐⭐
 - Library : Pytorch, OpenCV, Open3D
 
 <!-- markdownlint-disable MD033 -->
