@@ -1,6 +1,10 @@
 - blog : [https://leggiero-crescendo.tistory.com/](https://leggiero-crescendo.tistory.com/)
 
+## 🐍 Skills
 
+- Language(computer) : Python ⭐⭐, C++⭐
+- Language(human) : Korean ⭐⭐⭐⭐ , English ⭐⭐
+- Library : Pytorch, OpenCV, Open3D
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
