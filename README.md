@@ -6,8 +6,7 @@
 - Language(computer) : Python ⭐⭐, C++⭐
 - Language : Korean ⭐⭐⭐⭐ , English ⭐⭐
 - Library : Pytorch, OpenCV, Open3D
-
-<img src="https://user-images.githubusercontent.com/125112464/233348438-fbbd262f-7d6c-4bbf-88f9-5411fb86cddd.png" width="3%" height="3%"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="3%" height="3%">
+- <img src="https://user-images.githubusercontent.com/125112464/233348438-fbbd262f-7d6c-4bbf-88f9-5411fb86cddd.png" width="3%" height="3%"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="3%" height="3%">
 
 ## 🌱 Projects
 
